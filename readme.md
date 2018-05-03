@@ -1,4 +1,4 @@
-#Custom Translator Documentation
+# Custom Translator Documentation
 
 The Microsoft Custom Translator preview is feature of the Microsoft Translator service. With Custom Translator, enterprises, app developers and language service providers can build neural translation systems that understand the terminology used in their own business and industry. The customized translation system will then seamlessly integrate into existing applications, workflows and websites. 
 
