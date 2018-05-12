@@ -12,7 +12,7 @@ Custom Translator allows users to customize Microsoft Translator’s advanced ne
 
 
 ## Links:
-[Custom Feature API Swagger documentation](http://hubv2api.azurewebsites.net/text/swagger/)
+[Custom Feature API Swagger documentation](https://custom-api.cognitive.microsofttranslator.com/swagger/)
 
 ## Release notes
 7 May 18 - Documentation added to GitHub
