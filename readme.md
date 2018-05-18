@@ -14,5 +14,9 @@ Custom Translator allows users to customize Microsoft Translator’s advanced ne
 ## Links:
 [Custom Feature API Swagger documentation](https://custom-api.cognitive.microsofttranslator.com/swagger/)
 
+
+## Support:
+Post questions to [StackOverflow](http://www.aka.ms/TranslatorForum)
+
 ## Release notes
 7 May 18 - Documentation added to GitHub
