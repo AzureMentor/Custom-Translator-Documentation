@@ -17,6 +17,3 @@ Custom Translator allows users to customize Microsoft Translator’s advanced ne
 
 ## Support:
 Post questions to [StackOverflow](http://www.aka.ms/TranslatorForum)
-
-## Release notes
-7 May 18 - Documentation added to GitHub
