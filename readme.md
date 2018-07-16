@@ -12,6 +12,8 @@ Custom Translator allows users to customize Microsoft Translator’s advanced ne
 
 
 ## Links:
+[Custom Translator: How to get started video on YouTube](https://youtu.be/2_xfoI9HV9U)
+
 [Custom Feature API Swagger documentation](https://custom-api.cognitive.microsofttranslator.com/swagger/)
 
 
