@@ -8,7 +8,7 @@ Custom Translator allows users to customize Microsoft Translator’s advanced ne
 
 
 ## Contents:
-[Custom Translator User Guide](https://github.com/MicrosoftTranslator/Custom-Translator-Documentation/blob/master/Microsoft%20Translator%20Custom%20Translator%20User%20GuideV3.pdf)
+[Custom Translator User Guide](https://github.com/MicrosoftTranslator/Custom-Translator-Documentation/blob/master/Microsoft%20Translator%20Custom%20Translator%20User%20Guide.pdf)
 
 
 ## Links:
