@@ -7,8 +7,8 @@ Custom Translator allows users to customize Microsoft Translator’s advanced ne
 [Learn more](https://www.microsoft.com/en-us/translator/customization.aspx)
 
 
-## Contents:
-[Custom Translator User Guide](https://github.com/MicrosoftTranslator/Custom-Translator-Documentation/blob/master/Microsoft%20Translator%20Custom%20Translator%20User%20Guide.pdf)
+## Documentation:
+[Custom Translator Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/custom-translator/overview)
 
 
 ## Links:
